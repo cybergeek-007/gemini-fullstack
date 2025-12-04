@@ -1,0 +1,14 @@
+# Node
+node_modules/
+
+# Env files
+.env
+.env.local
+.env.production
+.env.development
+
+# Vite
+frontend/dist/
+
+# Logs
+*.log
